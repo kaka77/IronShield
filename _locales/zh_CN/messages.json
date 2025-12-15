@@ -1,0 +1,13 @@
+{
+  "appName": { "message": "铁盾 WebRTC 隐私防护" },
+  "appDesc": { "message": "基于 Chrome 原生 Privacy API 的企业级 WebRTC 防泄露工具。" },
+  "actionTitle": { "message": "WebRTC 防护设置" },
+  "uiTitle": { "message": "🛡️ 铁盾 WebRTC 防护" },
+  "optHighTitle": { "message": "🔒 最高防护 (推荐)" },
+  "optHighDesc": { "message": "强制流量走代理/VPN。物理阻断直连，彻底杜绝 IP 泄露。" },
+  "optMedTitle": { "message": "⚠️ 中等防护" },
+  "optMedDesc": { "message": "仅隐藏局域网内网 IP，公网 IP 仍可能暴露。" },
+  "optOffTitle": { "message": "❌ 关闭防护" },
+  "optOffDesc": { "message": "浏览器默认行为，WebRTC 功能完整，但会泄露 IP。" },
+  "statusUpdated": { "message": "策略已更新，立即生效！" }
+}

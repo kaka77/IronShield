@@ -1,0 +1,13 @@
+{
+  "appName": { "message": "IronShield WebRTC 보호" },
+  "appDesc": { "message": "Chrome 개인정보 API를 사용한 강력한 IP 유출 방지 도구." },
+  "actionTitle": { "message": "WebRTC 설정" },
+  "uiTitle": { "message": "🛡️ IronShield 보안" },
+  "optHighTitle": { "message": "🔒 최고 보안 (권장)" },
+  "optHighDesc": { "message": "프록시/VPN 경유 강제. 실제 IP 유출을 완벽하게 차단합니다." },
+  "optMedTitle": { "message": "⚠️ 중간 보안" },
+  "optMedDesc": { "message": "내부 IP만 숨깁니다. 공인 IP는 노출될 수 있습니다." },
+  "optOffTitle": { "message": "❌ 보호 끄기" },
+  "optOffDesc": { "message": "브라우저 기본값. IP가 유출될 수 있습니다." },
+  "statusUpdated": { "message": "정책이 업데이트되었습니다!" }
+}

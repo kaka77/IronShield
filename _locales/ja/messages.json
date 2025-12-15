@@ -1,0 +1,13 @@
+{
+  "appName": { "message": "IronShield WebRTC 保護" },
+  "appDesc": { "message": "Chrome プライバシー API を使用した強力な IP 漏洩防止ツール。" },
+  "actionTitle": { "message": "WebRTC 設定" },
+  "uiTitle": { "message": "🛡️ IronShield 保護" },
+  "optHighTitle": { "message": "🔒 最高レベル (推奨)" },
+  "optHighDesc": { "message": "プロキシ経由を強制します。IP 漏洩を完全に防ぎます。" },
+  "optMedTitle": { "message": "⚠️ 中レベル" },
+  "optMedDesc": { "message": "LAN IP のみ隠します。グローバル IP は見える可能性があります。" },
+  "optOffTitle": { "message": "❌ 保護オフ" },
+  "optOffDesc": { "message": "標準設定です。IP が漏洩するリスクがあります。" },
+  "statusUpdated": { "message": "設定を更新しました！" }
+}

@@ -1,0 +1,13 @@
+{
+  "appName": { "message": "IronShield WebRTC Protector" },
+  "appDesc": { "message": "Enterprise-grade WebRTC leak protection using native Chrome Privacy API." },
+  "actionTitle": { "message": "WebRTC Settings" },
+  "uiTitle": { "message": "🛡️ IronShield WebRTC" },
+  "optHighTitle": { "message": "🔒 Max Protection (Rec)" },
+  "optHighDesc": { "message": "Forces traffic via Proxy/VPN. Blocks direct IP leaks." },
+  "optMedTitle": { "message": "⚠️ Medium Protection" },
+  "optMedDesc": { "message": "Hides LAN IP only. Public IP still visible via STUN." },
+  "optOffTitle": { "message": "❌ Protection Off" },
+  "optOffDesc": { "message": "Default browser behavior. Real IP will leak." },
+  "statusUpdated": { "message": "Policy Updated!" }
+}
